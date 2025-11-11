@@ -1,4 +1,4 @@
-#Password Cracker
+# Password Cracker
 
 Description:
 A simple Python-based password cracking tool that uses a dictionary to go against MD5 password hashes.
