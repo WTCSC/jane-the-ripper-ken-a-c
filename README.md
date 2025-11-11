@@ -46,3 +46,7 @@ Sample output:
 ## Testing
 
 None
+
+## Decision Tree
+
+<img width="569" height="288" alt="Screenshot 2025-11-10 225602" src="https://github.com/user-attachments/assets/aba33a16-af69-4040-984d-117085f452a9" />
