@@ -14,3 +14,35 @@ Python 3.6+
 Files required:
 
 Password_Cracker.py, hashes.txt, wordlist.txt
+
+## Installation
+
+Clone or download the repository:
+
+git clone <your-repo-url>
+cd jane-the-ripper-ken-a-c
+
+python3 jane-the=ripper-ken-a-c
+
+## Usage Examples
+
+Run the password cracker:
+
+python Password_Cracker.py
+
+Example input when prompted:
+
+Enter path to hash file: hashes.txt
+Enter path to wordlist file: wordlist.txt
+
+Sample output:
+
+--- CRACKING STARTED ---
+[+] Cracked: 5f4dcc3b5aa765d61d8327deb882cf99 --> password
+[+] Cracked: e10adc3949ba59abbe56e057f20f883e --> 123456
+[-] FAILED: d41d8cd98f00b204e9800998ecf8427e
+--- CRACKING FINISHED ---
+
+## Testing
+
+None
